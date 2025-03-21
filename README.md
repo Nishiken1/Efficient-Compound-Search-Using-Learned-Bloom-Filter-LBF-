@@ -146,6 +146,10 @@ If you use this work in your research, please cite our paper:
 }
 ```
 
+## DOI
+This project is archived and citable via Zenodo: 
+[![DOI](https://zenodo.org/badge/951711093.svg)](https://doi.org/10.5281/zenodo.15063429)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
